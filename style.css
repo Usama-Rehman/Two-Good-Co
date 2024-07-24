@@ -128,7 +128,7 @@ nav #nav-right{
 #home-video{
     height: 80vh;   
     width: 100%;
-    background-color: cadetblue;
+    /* background-color: cadetblue; */
     margin-top: 2vw;
     position: relative;
     cursor: pointer;
